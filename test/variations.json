@@ -1,0 +1,16 @@
+{
+  "pacman": [{
+      "width": 50
+    },
+    {
+      "color": {
+        "name":"blue",
+        "hex": "#3A86C4"
+      },
+      "height": 300
+    }
+  ],
+  "pacman2": {
+    "height": 500
+  }
+}
